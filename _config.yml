@@ -1,0 +1,76 @@
+---
+year: '2020'
+shortname: PGM
+booktitle: Proceedings of the 10th International Conference on Probabilistic Graphical
+  Models
+sections:
+- name: Preliminary
+  title: Preliminary
+- name: Research Papers
+  title: Research Papers
+- name: Software Demonstrations
+  title: Software Demonstrations
+volume: 138
+start: 2020-09-23
+end: 2020-09-25
+published: 2020-02-02
+conference_number: '10'
+url: http://proceedings.mlr.press
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: pgm2020
+month: 0
+cycles: false
+bibtex_editor: Jaeger, Manfred and Nielsen, Thomas Dyhre
+editor:
+- given: Manfred
+  family: Jaeger
+- given: Thomas Dyhre
+  family: Nielsen
+title: Proceedings of Machine Learning Research
+description: !binary |-
+  UHJvY2VlZGluZ3Mgb2YgdGhlIDEwdGggSW50ZXJuYXRpb25hbCBDb25mZXJlbmNlIG9uIFByb2JhYmlsaXN0aWMgR3JhcGhpY2FsIE1vZGVscwogIEhlbGQgaW4gSG90ZWwgQ29td2VsbCBSZWJpbGQgQmFra2VyLCBTa8O4cnBpbmcsIERlbm1hcmsgb24gMjMtMjUgU2VwdGVtYmVyIDIwMjAKClB1Ymxpc2hlZCBhcyBWb2x1bWUgMTM4IGJ5IHRoZSBQcm9jZWVkaW5ncyBvZiBNYWNoaW5lIExlYXJuaW5nIFJlc2VhcmNoIG9uIDAyIEZlYnJ1YXJ5IDIwMjAuCgpWb2x1bWUgRWRpdGVkIGJ5OgogIE1hbmZyZWQgSmFlZ2VyCiAgVGhvbWFzIER5aHJlIE5pZWxzZW4KClNlcmllcyBFZGl0b3JzOgogIE5laWwgRC4gTGF3cmVuY2UKICBNYXJrIFJlaWQK
+date_str: 23--25 Sep
+author:
+  name: PMLR
+baseurl: "/v138"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: lawrennd/proceedings
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v138
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+email: ''
+conference:
+  name: International Conference on Probabilistic Graphical Models
+  url: 
+  location: Hotel Comwell Rebild Bakker, Skørping, Denmark
+  dates:
+  - 2020-09-23
+  - 2020-09-24
+  - 2020-09-25
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+orig_bibfile: "/Users/neil/mlresearch/v138/pgm2020.bib"
+# Site settings
+# Original source:  /Users/neil/mlresearch/v138/pgm2020.bib

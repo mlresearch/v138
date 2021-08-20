@@ -15,7 +15,7 @@ start: 2020-09-23
 end: 2020-09-25
 published: 2020-02-02
 conference_number: '10'
-url: http://proceedings.mlr.press
+url: https://proceedings.mlr.press
 layout: proceedings
 series: Proceedings of Machine Learning Research
 publisher: PMLR
